@@ -1,0 +1,3410 @@
+﻿[
+  {
+    "title": "USAID Public Data Listing",
+    "description": "Version 3.0.20140831",
+    "keyword": [
+      "catalog"
+    ],
+    "modified": "2014-08-31",
+    "publisher": "US Agency for International Development",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "identifier": "0101010101010011010000010100100101000100",
+    "accessLevel": "public",
+    "bureauCode": [
+      "184:015"
+    ],
+    "programCode": [
+      "184:001",
+      "184:002",
+      "184:003",
+      "184:004",
+      "184:005",
+      "184:006",
+      "184:007",
+      "184:008",
+      "184:009",
+      "184:010",
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:014",
+      "184:015",
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:019",
+      "184:020",
+      "184:021",
+      "184:022",
+      "184:023",
+      "184:024",
+      "184:025",
+      "184:026",
+      "184:027",
+      "184:028",
+      "184:029",
+      "184:030",
+      "184:031",
+      "184:032",
+      "184:033",
+      "184:034",
+      "184:035",
+      "184:036",
+      "184:037"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/data.json",
+        "format": "application/json"
+      }
+    ]
+  },
+  {
+    "title": "AidData",
+    "description": "AidData is a research and innovation lab making information on development finance more accessible and actionable. Tracking more than $6 trillion dollars from 90+ donor agencies, AidData undertakes cutting-edge research on aid distribution and impact, geocodes and crowdsources aid information, and develops applications and custom data solutions for diverse stakeholders. The AidData team works with a wide range of partner organizations to collect, visualize, and analyze development finance for more effective development policy, practice, and research.",
+    "keyword": [
+      "partners",
+      "financial",
+      "impact",
+      "distribution"
+    ],
+    "modified": "2013-11-26",
+    "publisher": "USAID",
+    "identifier": "49fc4b3c-c556-4552-8551-797c1a84c83c",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:028",
+      "184:029",
+      "184:033",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://aiddata.org",
+    "accessLevelComment": "Owned and maintained by Development Gateway, \"http\"://www.developmentgateway.org."
+  },
+  {
+    "title": "Baseline Study of Food for Peace Title II Development Food Assistance Program in Uganda",
+    "description": "In fiscal year 2012, USAID’s Office of Food for Peace (FFP) awarded funding to private voluntary organizations (PVOs) to design and implement a multi-year Title II development food assistance program in Uganda. The main purpose of the Title II program is to improve long-term food security of chronically food insecure population in the target regions. FFP contracted a firm, ICF International to conduct a baseline study in targeted areas of the country prior to the start of the new program.  The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.  Results would also be used to further refine program targeting and, where possible, to understand the relationship between variables to inform program design.  The study was conducted in 2013, while FFP expects to conduct final evaluations as close as possible to the end of the program five years later.",
+    "keyword": [
+      "Uganda",
+      "Baseline Survey",
+      "Food For Peace",
+      "FFP",
+      "Title II Development Program",
+      "Food Security",
+      "Karamoja"
+    ],
+    "modified": "2013-10-15",
+    "publisher": "USAID",
+    "identifier": "3c32504d-ffba-46c9-8c7b-30449def4143",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:016",
+      "184:018",
+      "184:019",
+      "184:029",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "spatial": "Uganda",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/developer/FFPBaselineStudies"
+  },
+  {
+    "title": "Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger",
+    "description": "In fiscal year 2012, USAID’s Office of Food for Peace (FFP) awarded funding to private voluntary organizations (PVOs) to design and implement a multi-year Title II development food assistance program in Niger. The main purpose of the Title II program is to improve long-term food security of chronically food insecure population in the target regions. FFP contracted a firm, ICF International to conduct a baseline study in targeted areas of the country prior to the start of the new program.  The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.  Results would also be used to further refine program targeting and, where possible, to understand the relationship between variables to inform program design.  The study was conducted in 2013, while FFP expects to conduct final evaluations as close as possible to the end of the program five years later.",
+    "keyword": [
+      "Niger",
+      "Baseline Survey",
+      "Food For Peace",
+      "FFP",
+      "Title II Development Program",
+      "Food Security",
+      "Maradi",
+      "Zinder"
+    ],
+    "modified": "2013-10-15",
+    "publisher": "USAID",
+    "identifier": "08ee315f-c339-4c2f-8ae8-8988c9ef05ff",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:016",
+      "184:018",
+      "184:019",
+      "184:029",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "spatial": "Niger",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/developer/FFPBaselineStudies"
+  },
+  {
+    "title": "Baseline Study of Food for Peace Title II Development Food Assistance Program in Guatemala",
+    "description": "In fiscal year 2012, USAID’s Office of Food for Peace (FFP) awarded funding to private voluntary organizations (PVOs) to design and implement a multi-year Title II development food assistance program in Guatemala. The main purpose of the Title II program is to improve long-term food security of chronically food insecure population in the target regions. FFP contracted a firm, ICF International to conduct a baseline study in targeted areas of the country prior to the start of the new program.  The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.  Results would also be used to further refine program targeting and, where possible, to understand the relationship between variables to inform program design.  The study was conducted in 2013, while FFP expects to conduct final evaluations as close as possible to the end of the program five years later.",
+    "keyword": [
+      "Guatemala",
+      "Baseline Survey",
+      "Food For Peace",
+      "FFP",
+      "Title II Development Program",
+      "Food Security",
+      "Segamil",
+      "Paisano"
+    ],
+    "modified": "2013-10-15",
+    "publisher": "USAID",
+    "identifier": "beafc8ed-c5cf-41a0-84a4-19303c309516",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:016",
+      "184:018",
+      "184:019",
+      "184:029",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "spatial": "Guatemala",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/developer/FFPBaselineStudies"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Democratic Republic of the Congo",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "ec2ed1d0-5dc5-4d4e-a804-54d3f6d8d68e",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:003",
+      "184:005",
+      "184:006",
+      "184:007",
+      "184:008",
+      "184:009",
+      "184:010",
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:016",
+      "184:017",
+      "184:019",
+      "184:020",
+      "184:028",
+      "184:030",
+      "184:031",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RDRC2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": " Democratic Republic of the Congo ",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Ethiopia",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "59bf4262-8fbd-4e2f-aea3-051f371645f8",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:007",
+      "184:029",
+      "184:027",
+      "184:030",
+      "184:026",
+      "184:020",
+      "184:021",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018",
+      "184:006",
+      "184:001"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2REthiopia2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Ethiopia",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Ghana",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "afbd88ba-d34b-4abb-845a-a782d6c568bc",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:027",
+      "184:028",
+      "184:025",
+      "184:030",
+      "184:026",
+      "184:020",
+      "184:021",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RGhana2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Ghana",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Kenya",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "2f4dca01-abb8-4d1c-a237-f78a439e80c7",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:007",
+      "184:029",
+      "184:031",
+      "184:027",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018",
+      "184:006",
+      "184:001"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RKenya2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Kenya",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Liberia",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "bb074778-0013-4ada-bfdd-3bb69a316e07",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:007",
+      "184:029",
+      "184:031",
+      "184:027",
+      "184:028",
+      "184:030",
+      "184:026",
+      "184:020",
+      "184:021",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RLiberia2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Liberia",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Malawi",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "f969e7b6-bf40-461b-aa51-79081ff691b9",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:023",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RMalawi2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Malawi",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Mozambique",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "bae2bb04-9284-4cec-98cc-a2e3bae1f450",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:030",
+      "184:026",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RMozambique2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Mozambique",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Nigeria",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "008c37be-e763-4366-98ac-e5390192e40b",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:101",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018",
+      "184:007",
+      "184:027",
+      "184:028",
+      "184:026",
+      "184:006"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RNigeria2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Nigeria",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Rwanda",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "bc23518a-772a-4ff1-ae79-f47546851c25",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:018",
+      "184:010",
+      "184:007",
+      "184:028",
+      "184:003"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RRwanda2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Rwanda",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Senegal",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "8a812a71-e1c2-4e70-bcfd-ce9bb15f5406",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018",
+      "184:026",
+      "184:006"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RSenegal2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Senegal",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, South Sudan",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "3352986f-0e23-4249-af88-ceb9c253135d",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:029",
+      "184:020",
+      "184:021",
+      "184:023",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:010",
+      "184:025",
+      "184:028",
+      "184:006"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RSouthSudan2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "SouthSudan",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Tanzania",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "ebdcaa85-bcb7-4bff-a890-71d85dc04636",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:026",
+      "184:007",
+      "184:030",
+      "184:020",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RTanzania2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Tanzania",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Uganda",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "cc34fe46-aaff-470a-a7b2-ff03387e864f",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:028",
+      "184:026",
+      "184:006",
+      "184:005",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RUganda2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Uganda",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Bangladesh",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "f5e32341-2a6d-4439-b06c-19c70d24f1d6",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:028",
+      "184:003",
+      "184:005",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:030",
+      "184:020",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:013",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RBangladesh2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Bangladesh",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, India",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "f65561d0-934d-442d-8bc4-268defc2f039",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:029",
+      "184:031",
+      "184:020",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018",
+      "184:007",
+      "184:028"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RIndia2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "India",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Indonesia",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "d0aeafdd-5938-4c1a-b261-c20ddf9233c6",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:023",
+      "184:032",
+      "184:011",
+      "184:010",
+      "184:016",
+      "184:012",
+      "184:018",
+      "184:007",
+      "184:027",
+      "184:028",
+      "184:025",
+      "184:026",
+      "184:006",
+      "184:005"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RIndonesia2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Indonesia",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Nepal",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "2ac86576-c492-4757-a7ab-a55a418cf84c",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:028",
+      "184:025",
+      "184:026",
+      "184:006",
+      "184:005",
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:019",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RNepal2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Nepal",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Philippines",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "50a23131-edd0-47ef-b98c-e3ed55ab6ce2",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:028",
+      "184:025",
+      "184:026",
+      "184:006",
+      "184:005",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RPhilippines2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Philippines",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, TimorLeste",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "d70c4ef6-e2cb-4ebe-bc2d-7c3a214a915c",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:006",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:032",
+      "184:017",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RTimorLeste2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "TimorLeste",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Armenia",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "cc6aa30d-7cf7-4f40-a14e-77064cff7bd0",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:027",
+      "184:028",
+      "184:026",
+      "184:015",
+      "184:006",
+      "184:003",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:030",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:016",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RArmenia2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Armenia",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Bosnia and Herzegovina",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "21efb022-c281-419e-a386-04b354f7496d",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:027",
+      "184:028",
+      "184:026",
+      "184:006",
+      "184:003",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:032"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RBosniaHerzegovina2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Bosnia and Herzegovina",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Georgia",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "b788aa54-89c8-43d1-a659-cea6fa81d169",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:027",
+      "184:028",
+      "184:025",
+      "184:026",
+      "184:015",
+      "184:006",
+      "184:004",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:023",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RGeorgia2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Georgia",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Kosovo",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "011b4f24-700a-4156-bf28-72cc46116edc",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:028",
+      "184:025",
+      "184:026",
+      "184:006",
+      "184:005",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:032",
+      "184:016",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RKosovo2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Kosovo",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Ukraine",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "48c2e371-6ce7-439f-b477-af81e3cf5eaf",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:027",
+      "184:028",
+      "184:026",
+      "184:015",
+      "184:002",
+      "184:005",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:021",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RUkraine2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Ukraine",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, El Salvador",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "b1fa0025-b807-484f-b071-c5fa8bb82cf6",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:007",
+      "184:027",
+      "184:025",
+      "184:026",
+      "184:008",
+      "184:029",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RElSalvador2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "El Salvador",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Guatemala",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "938c85bf-da61-415d-a8e9-f1bb167365fd",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:030",
+      "184:020",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:019",
+      "184:007",
+      "184:026"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RGuatemala2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Guatemala",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Haiti",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "bb49c525-c80e-4630-86a5-44381ff1b7bc",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:027",
+      "184:028",
+      "184:026",
+      "184:004",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RHaiti2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Haiti",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Honduras",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "7e143205-c008-4af8-9c7e-a1b451a52035",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:019",
+      "184:007"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RHonduras2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Honduras",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Nicaragua",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "d0406b0e-91b5-467d-baea-7d48d300f121",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:007",
+      "184:026",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:019",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RNicaragua2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Nicaragua",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Peru",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "577465db-1045-444f-8c9e-e240dd8fe44b",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:027",
+      "184:026",
+      "184:015",
+      "184:004",
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:030",
+      "184:020",
+      "184:032",
+      "184:017",
+      "184:011",
+      "184:016",
+      "184:019",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RPeru2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Peru",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Afghanistan",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "f127f12d-cc1a-4aa4-9d6d-9469ecb0132d",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:023",
+      "184:032",
+      "184:017",
+      "184:007",
+      "184:028",
+      "184:025",
+      "184:015",
+      "184:006",
+      "184:004",
+      "184:003",
+      "184:027",
+      "184:016",
+      "184:012",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RAfghanistan2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Afghanistan",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Iraq",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "f3d5c076-491d-4d50-81b4-79f7e0cea67a",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:015",
+      "184:006",
+      "184:003",
+      "184:024",
+      "184:027",
+      "184:007",
+      "184:010",
+      "184:016"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RIraq2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Iraq",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Jordan",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "bf0409cf-81dd-4470-9f12-52f091853b17",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:010",
+      "184:007",
+      "184:028",
+      "184:025",
+      "184:026",
+      "184:015",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:016",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RJordan2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Jordan",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, Morocco",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "be5f7966-ded9-48b6-b7c6-4dbe5af0cf8f",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:010",
+      "184:028",
+      "184:025",
+      "184:026",
+      "184:015",
+      "184:007",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:024",
+      "184:032",
+      "184:017",
+      "184:016",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RMorocco2012.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "Morocco",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "Dollars to Results: Linking Spending to Outputs and Outcomes, West Bank and Gaza",
+    "description": "Country data exported from the Dollars to Results pages on the USAID web site.",
+    "keyword": [
+      "disbursements",
+      "outputs",
+      "outcomes"
+    ],
+    "modified": "2014-02-14",
+    "publisher": "USAID",
+    "identifier": "c6bd3493-6323-4742-9eb2-bc0384a43b4f",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:007",
+      "184:028",
+      "184:025",
+      "184:026",
+      "184:015",
+      "184:005",
+      "184:008",
+      "184:009",
+      "184:029",
+      "184:031",
+      "184:030",
+      "184:020",
+      "184:021",
+      "184:023",
+      "184:016",
+      "184:019",
+      "184:010",
+      "184:018"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/D2RWestBankandGaza.xml",
+        "format": "application/xml"
+      }
+    ],
+    "spatial": "West Bank and Gaza",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://results.usaid.gov"
+  },
+  {
+    "title": "DHS STATCompiler",
+    "description": "The MEASURE DHS STATcompiler allows users to make custom tables based on hundreds of demographic and health indicators across more than 70 countries. Customize tables to view indicators by background characteristics, over time, and across countries.",
+    "keyword": [
+      "demographics",
+      "health",
+      "survey",
+      "international"
+    ],
+    "modified": "2013-11-21",
+    "publisher": "USAID",
+    "identifier": "62a927d0-74e7-4802-96c2-90e78c85608c",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:014",
+      "184:015",
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:019"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.statcompiler.com"
+  },
+  {
+    "title": "Development Experience Clearinghouse (DEC)",
+    "description": "The DEC is a publicly available document repository for over 160,000 technical and programmatic documents related to USAID programming that is managed by USAID's Knowledge Services Center in the CIO. Users can search and view the majority of documents that are submitted by both implementing partners and USAID staff.",
+    "keyword": [
+      "usaid"
+    ],
+    "modified": "2013-11-26",
+    "publisher": "USAID",
+    "identifier": "dd4fe488-3c50-4d57-92f7-48a4e6578069",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:001",
+      "184:002",
+      "184:003",
+      "184:004",
+      "184:005",
+      "184:006",
+      "184:007",
+      "184:008",
+      "184:009",
+      "184:010",
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:014",
+      "184:015",
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:019",
+      "184:020",
+      "184:021",
+      "184:022",
+      "184:023",
+      "184:024",
+      "184:025",
+      "184:026",
+      "184:027",
+      "184:028",
+      "184:029",
+      "184:030",
+      "184:031",
+      "184:032",
+      "184:033",
+      "184:034",
+      "184:035",
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "landingPage": "http://dec.usaid.gov",
+    "webservice": "http://www.usaid.gov/developer/development-experience-clearinghouse-dec-api"
+  },
+  {
+    "title": "Development Credit Authority (DCA): Guarantee Utilization and Claims",
+    "description": "USAID's Development Credit Authority (DCA) works with investors, local financial institutions, and development organizations to design and deliver investment alternatives that unlock financing for U.S. Government priorities. Whether it's getting working capital to promising entrepreneurs or input financing to small farmers, DCA seeks to prove the commercial viability of underserved markets so that lending and investment continues long after we exit. The Development Credit Authority (DCA) uses partial credit guarantees to mobilize local financing in developing countries. Guarantee agreements encourage private lenders to extend financing to underserved borrowers in new sectors and regions. By opening up local channels of financing, USAID is empowering entrepreneurs in developing countries at a minimal cost to the U.S. taxpayer. This USAID dataset shows the partial credit guarantees that USAID has issued since the development credit authority program was founded in 1999. The spreadsheet reflects the full facility size of each guarantee, how much was lent under the guarantee, the status of the guarantee (i.e., active or expired), how much in claims the bank submitted due to losses it incurred for loans placed under the guarantee, and how many loans were placed under coverage of the guarantee. The data also shows the sector and country for each guarantee.",
+    "keyword": [
+      "dca",
+      "credit",
+      "financial",
+      "investments",
+      "lending",
+      "bank",
+      "geospatial",
+      "WWHGD",
+      "guarantees",
+      "development",
+      "loans",
+      "entrepreneurs"
+    ],
+    "modified": "2011-12-01",
+    "publisher": "USAID",
+    "identifier": "31fbe412-d87a-41b1-bf62-259895057f79",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:027",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/results-and-data/progress-data/data/dca",
+    "distribution": [
+      {
+        "accessURL": "https://inventory.data.gov/dataset/bb24c71b-fa3d-4f30-bf8f-16d2b561b6df/resource/1705fe89-ffc3-420d-a385-f365f75fa7eb/download/userssharedsdfusaiddevelopmentcagdutilizationandclaims.csv",
+        "format": "text/csv"
+      }
+    ],
+    "webService": "http://labs.data.gov/databeam/stephaniefaith/utilization-and-claims"
+  },
+  {
+    "title": "Development Credit Authority (DCA) Data Set: Loan Transactions",
+    "description": "USAID's Development Credit Authority (DCA) works with investors, local financial institutions, and development organizations to design and deliver investment alternatives that unlock financing for U.S. Government priorities. USAID guarantees encourage private lenders to extend financing to underserved borrowers in new sectors and regions. This dataset is the complete list of all private loans made under USAID's DCA since it was established in 1999. To protect the personal information of borrowers and bank partners, all strategic and personal identifiable information was removed. For explanations and limitations of the dataset, download the attachment in the metadata.",
+    "keyword": [
+      "dca",
+      "credit",
+      "financial",
+      "investments",
+      "lending",
+      "bank",
+      "geospatial",
+      "WWHGD",
+      "guarantees",
+      "development",
+      "loans",
+      "entrepreneurs"
+    ],
+    "modified": "2012-06-25",
+    "publisher": "USAID",
+    "identifier": "854d1b81-a517-4966-957c-5428fb4c1821",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:027",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/results-and-data/progress-data/data/dca",
+    "webService": "http://explore.data.gov/resource/7swc-ittd.json",
+    "distribution": [
+      {
+        "accessURL": "https://inventory.data.gov/dataset/6680fbb1-8227-4754-946d-193cb0fb7a04/resource/edc94528-abe5-4330-b13a-1501c2ea26ce/download/userssharedsdfusaiddevelopmentcagloantransactions.csv",
+        "format": "text/csv"
+      }
+    ]
+  },
+  {
+    "title": "FEWS NET Price Volatility Data 2002-2012",
+    "description": "This dataset from the Famine Early Warning System Network (FEWS NET) documents ten years, from 2002 to 2012, of cereal price fluctuations across twenty-five African countries. These numbers provide a month-by-month record of the degree and scope of price crises as well as undisturbed cereal markets in Africa.",
+    "keyword": [
+      "cereal",
+      "prices",
+      "africa"
+    ],
+    "modified": "2013-04-29",
+    "publisher": "USAID",
+    "identifier": "8357a7f6-2514-42ea-8069-ae260c9a4d98",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:027",
+      "184:029"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.fews.net",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/fewsnet-dataset.zip",
+        "format": "application/zip"
+      }
+    ]
+  },
+  {
+    "title": "Feed the Future Bangladesh: Baseline Integrated Household Survey",
+    "description": "The Bangladesh Integrated Household Survey dataset is a thorough assessment of current standard of food security in Bangladesh taken from 2011-2012. The dataset includes all baseline household surveys made under the USAID-led Feed the Future initiative, a collaborative effort that supports country-owned processes and plans for improving food security and promoting transparency, and within the Zones of Influence as outlined by the Feed the Future Bangladesh plan. The survey was designed and supervised by the International Food Policy Research Institute (IFPRI). The survey was administered by Data Analysis and Technical Assistance, Dhaka, Bangladesh. Funding for the survey was provided by United States Agency for International Development (USAID). To protect the personal information of respondents, all personal identifiable information was removed, and the final dataset has been approved for publication by the Government of Bangladesh.",
+    "keyword": [
+      "agriculture",
+      "food",
+      "feed the future",
+      "survey",
+      "analysis"
+    ],
+    "modified": "2013-04-23",
+    "publisher": "USAID",
+    "identifier": "d6ac2eb7-85f5-4f35-9b45-5777a98972e3",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/country/bangladesh",
+    "references": [
+      "http://pdf.usaid.gov/pdf_docs/pbaaa733.pdf"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/bangladesh-integrated-household-survery-dataset.zip",
+        "format": "application/zip"
+      }
+    ]
+  },
+  {
+    "title": "Feed the Future Ghana: Baseline Household Survey",
+    "description": "These baseline surveys of nearly 5,000 households in Ghana capture all indicators outlined by the Feed the Future Initiative, and will be used to measure progress over the next five years.",
+    "keyword": [
+      "agriculture",
+      "food",
+      "feed the future",
+      "survey",
+      "analysis"
+    ],
+    "modified": "2013-04-29",
+    "publisher": "USAID",
+    "identifier": "f722cc77-3e00-4a78-9211-90044db5740a",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/country/ghana",
+    "resources": [
+      "http://www.usaid.gov//sites/default/files/documents/1867/FTF%20Ghana%20Population%20Based%20Survey%20Protocol.pdf",
+      "http://www.usaid.gov/documents/1867/feed-future-ftf-population-based-survey-northern-ghana-enumerators%E2%80%99-manual"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/ghana-feed-the-future-dataset.zip",
+        "format": "application/zip"
+      }
+    ]
+  },
+  {
+    "title": "Feed the Future Zambia: Baseline Household Survey",
+    "description": "The Zambia Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in five districts — Chipata, Katete, Lundazi, Nyimba, and Petauke in Zambia. The PBS, which was conducted in November and December of 2012, \"measured\": household demographic information, dwelling characteristics, prevalence of poverty, consumption expenditure, hunger, and women’s empowerment in Agriculture Index (WEAI).",
+    "keyword": [
+      "Agriculture",
+      "Consumption",
+      "Poverty",
+      "Hunger",
+      "Food insecurity",
+      "Women's Empowerment",
+      "Feed the Future",
+      "Liberia"
+    ],
+    "modified": "2013-07-13",
+    "publisher": "USAID",
+    "identifier": "adefe530-02d1-4867-8b3b-1309c2fb16b7",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/country/Zambia",
+    "dataDictionary": "http://www.usaid.gov/opengov/developer/datasets/Zambia%202013%20FTF%20ZOI%20PBS%20Public%20Release%20Codebook%20-%2020140407.xlsx",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/Zambia_CSvs.zip",
+        "format": "application/zip"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/opengov/developer/datasets/Zambia%202013%20FTF%20ZOI%20PBS%20Country%20Report%20-%2020140404.pdf"
+    ]
+  },
+  {
+    "title": "Feed the Future Malawi: Baseline Household Survey",
+    "description": "The Malawi Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in seven districts in the Central and Southern Regions: Mchinji, Lilongwe, Dedza, Ntcheu, Balaka, Machinga, and Mangochi.  The PBS was conducted from November 14 to December 22, 2012.  The overall objective of the survey is to provide baseline on data living standards, nutritional status, and women's empowerment in agriculture in the Zone Of Influence.",
+    "keyword": [
+      "Agriculture",
+      "Consumption",
+      "Poverty",
+      "Hunger",
+      "Food insecurity",
+      "Women's Empowerment",
+      "Feed the Future",
+      "Malawi"
+    ],
+    "modified": "2013-10-11",
+    "publisher": "USAID",
+    "identifier": "7eb4c66f-3f68-4ac1-9ce9-b2240e81d66f",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/country/Malawi",
+    "dataDictionary": "http://www.usaid.gov/opengov/developer/datasets/Malawi%202013%20FTF%20ZOI%20PBS%20Public%20Release%20Codebook%20-%2020140320%20(1).xlsx",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/Malawi_CSVs.zip",
+        "format": "application/zip"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/opengov/developer/datasets/MALAWI%202013%20FTF%20ZOI%20PBS%20Country%20Report%20-%2020140320.pdf"
+    ]
+  },
+  {
+    "title": "Feed the Future Mozambique: Baseline Household Survey",
+    "description": "The Mozambique Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in two provinces, Zambizia and Nampula.  These areas were selected based on national estimates that indicate that the incidence of poverty, malnutrition, and stunting among children less than five years of age is disproportionately high.  These provinces are adjacent to three of the country‘s main trade corridors: Nacala (linking Mozambique to Malawi and Zambia), Beira (linking Mozambique to Zimbabwe), and the N1 (key North-South road connecting Nacala and Beira corridors). The PBS was conducted in 2013 with a focus on Household Hunger; Women’s Dietary Diversity; Children’s Minimum Acceptable Diet;WEAI (Women’s Empowerment in Agriculture Index);and Household Expenditure in the two provinces.",
+    "keyword": [
+      "Agriculture",
+      "Consumption",
+      "Poverty",
+      "Hunger",
+      "Food insecurity",
+      "Women's Empowerment",
+      "Feed the Future",
+      "Mozambique"
+    ],
+    "modified": "2013-10-11",
+    "publisher": "USAID",
+    "identifier": "75b19d18-202c-45b9-9f49-200a52c785ea",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:15"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/country/Mozambique",
+    "dataDictionary": "http://www.usaid.gov/opengov/developer/datasets/Mozambique%202013%20FTF%20ZOI%20PBS%20Public%20Release%20Codebook%20-%2020140703.xlsx",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/Mozambique_CSVs.zip",
+        "format": "application/zip"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/opengov/developer/datasets/Mozambique%20Baseline%20Report_July%202014.pdf"
+    ]
+  },
+  {
+    "title": "Feed the Future Nepal: Baseline Household Survey",
+    "description": "The Nepal Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in 20 districts across the western, mid-western and far-western development regions of the country. These districts make up the zone of influence for USAID/ Nepal’s Feed the Future (FTF) initiative.  The PBS, which was conducted in May and April 2013, \"measured\": household demographic information, dwelling characteristics, prevalence of poverty, consumption expenditure, hunger, and women’s empowerment in Agriculture Index (WEAI).",
+    "keyword": [
+      "Agriculture",
+      "Consumption",
+      "Poverty",
+      "Hunger",
+      "Food insecurity",
+      "Women's Empowerment",
+      "Feed the Future",
+      "Nepal"
+    ],
+    "modified": "2013-07-13",
+    "publisher": "USAID",
+    "identifier": "92fa242f-07b3-4ec4-9e98-84ab09e1078b",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/country/Nepal",
+    "dataDictionary": "http://www.usaid.gov/opengov/developer/datasets/Nepal%202013%20FTF%20ZOI%20PBS%20Public%20Release%20Codebook%20-%2020140505%20(1).xlsx",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/Nepal_CSVs.zip",
+        "format": "application/zip"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/opengov/developer/datasets/Nepal%202013%20FTF%20ZOI%20PBS%20Country%20Report%20-%2020140505.pdf"
+    ]
+  },
+  {
+    "title": "Feed the Future Rwanda: Baseline Household Survey",
+    "description": "The Rwanda Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in almost the entire country, including all four provinces and all of rural Rwanda.  The Zone of Influence (ZOI) comprises 27 of the 30 districts in Rwanda, with the exception of the three districts of Kigali City. The PBS, which was conducted from December 22, 2012 to January 11, 2013.  The overall objective of the survey is to provide baseline on data living standards, nutritional status, and women's empowerment in agriculture in the ZOI.",
+    "keyword": [
+      "Agriculture",
+      "Consumption",
+      "Poverty",
+      "Hunger",
+      "Food insecurity",
+      "Women's Empowerment",
+      "Feed the Future",
+      "Rwanda"
+    ],
+    "modified": "2013-10-11",
+    "publisher": "USAID",
+    "identifier": "314fbe77-7bab-4508-965b-5408b060b5ff",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/country/Rwanda",
+    "dataDictionary": "http://www.usaid.gov/opengov/developer/datasets/Rwanda%202013%20FTF%20ZOI%20PBS%20Public%20Release%20Codebook-Variables%20.xlsx",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/Rwanda_CSVs.zip",
+        "format": "application/zip"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/opengov/developer/datasets/Rwanda%202013%20FTF%20ZOI%20PBS%20Country%20Report%20-%2020140509.pdf"
+    ]
+  },
+  {
+    "title": "Feed the Future Uganda: Baseline Household Survey",
+    "description": "The Uganda Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in 38 districts across eight regions of the country.  The PBS was conducted from October 25 to December 30, 2012.  The overall objective of the survey is to provide baseline on data living standards, nutritional status, and women's empowerment in agriculture in the Zone Of Influence.",
+    "keyword": [
+      "Agriculture",
+      "Consumption",
+      "Poverty",
+      "Hunger",
+      "Food insecurity",
+      "Women's Empowerment",
+      "Feed the Future",
+      "Uganda"
+    ],
+    "modified": "2013-10-11",
+    "publisher": "USAID",
+    "identifier": "983036f6-9490-4b25-bb1e-14c459431694",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/country/Uganda",
+    "dataDictionary": "http://www.usaid.gov/opengov/developer/datasets/Uganda%202013%20FTF%20ZOI%20PBS%20Public%20Release%20Codebook%20-%2020140421.xls",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/Uganda_CSVs.zip",
+        "format": "application/zip"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/opengov/developer/datasets/Uganda%202013%20FTF%20ZOI%20PBS%20Country%20Report%20-%2020140421.pdf"
+    ]
+  },
+  {
+    "title": "Feed the Future Monitoring System Aggregate Data 2011-2013",
+    "description": "The Feed the Future Monitoring System (FTFMS) is part of an interagency effort to consolidate U.S. Government (USG) reporting on Feed the Future activities.  FTFMS collects and stores information at the implementing mechanism (IM) level for all USAID Missions receiving Agriculture, Nutrition (Focus countries only), or Food for Peace development funding (all countries).",
+    "keyword": [
+      "Agriculture",
+      "Consumption",
+      "Poverty",
+      "Hunger",
+      "Food insecurity",
+      "Women's Empowerment",
+      "Feed the Future"
+    ],
+    "modified": "2013-10-11",
+    "publisher": "USAID",
+    "identifier": "d03994db-4fc5-4b6c-9206-f17d1ce68f79",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029",
+      "184:019",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:15"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.feedthefuture.gov/progress",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/FtF_Monitoring_CSVs.zip",
+        "format": "application/zip"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/opengov/developer/datasets/FY13FTFMSGuidance.pdf",
+      "http://www.usaid.gov/opengov/developer/datasets/ftf_handbook_indicators_sept2013_2_0.pdf"
+    ]
+  },
+  {
+    "title": "Foreign Assistance Dashboard",
+    "description": "The Foreign Assistance Dashboard provides a view of U.S. Government foreign assistance funds and enables users to examine, research, and track aid investments in a standard and easy-to-understand format.",
+    "keyword": [
+      "fad",
+      "foreign assistance",
+      "international aid",
+      "research",
+      "aid"
+    ],
+    "modified": "2014-08-19",
+    "publisher": "USAID",
+    "identifier": "4c1a03a6-ae64-4749-8a81-6267afbb7bc3",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:001",
+      "184:002",
+      "184:003",
+      "184:004",
+      "184:005",
+      "184:006",
+      "184:007",
+      "184:008",
+      "184:009",
+      "184:010",
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:014",
+      "184:015",
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:019",
+      "184:020",
+      "184:021",
+      "184:022",
+      "184:023",
+      "184:024",
+      "184:025",
+      "184:026",
+      "184:027",
+      "184:028",
+      "184:029",
+      "184:030",
+      "184:031",
+      "184:032",
+      "184:033",
+      "184:034",
+      "184:035",
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://foreignassistance.gov",
+    "webService": "http://www.foreignassistance.gov/web/Developer.aspx",
+    "distribution": [
+      {
+        "accessURL": "http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData_Transaction.zip",
+        "format": "application/zip"
+      }
+    ]
+  },
+  {
+    "title": "OpenCities Project",
+    "description": " The Open Cities Project aims to catalyze the creation, management and use of open data to produce innovative solutions for urban planning and resilience challenges across South Asia. Open Cities dataset includes geocoded information about 100,000 buildings, 2256 educational and 350 health facilities within Kathmandu Valley.",
+    "keyword": [
+      "geospatial",
+      "nepal",
+      "health",
+      "schools",
+      "community",
+      "openstreetmap"
+    ],
+    "modified": "2013-11-21",
+    "publisher": "USAID",
+    "identifier": "5e11db6f-f193-4750-b5a3-ab0c29bd4e6c",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:024",
+      "184:034"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://opencitiesproject.com"
+  },
+  {
+    "title": "Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan",
+    "description": "This data set is derived from a 2013 household baseline survey in the country's Greenbelt region as part of an impact evaluation of the Food, Agribusiness, and Rural Markets (FARM) Project,which is intended to improve agricultural sector productivity and marketing in the Greenbelt and to support increasing South Sudan's food supply to reach food self-sufficiency.",
+    "keyword": [
+      "South Sudan",
+      "agriculture",
+      "farming practices",
+      "labor income",
+      "housing conditions",
+      "access to services",
+      "land ownership",
+      "land use",
+      "crop productivity",
+      "live stock",
+      "farm inputs",
+      "nutrition",
+      "hunger"
+    ],
+    "modified": "2013-09-26",
+    "publisher": "USAID",
+    "identifier": "968fb1a1-0f2b-4c00-a601-0bca5ef07a5f",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:019",
+      "184:026",
+      "184:032"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/sites/default/files/SouthSudanHouseholdData.csv",
+        "format": "text/csv"
+      }
+    ],
+    "dataDictionary": "http://www.usaid.gov/sites/default/files/SouthSudanDataDictionary.json",
+    "spatial": "South Sudan",
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "https://www.usaid.gov/developer/SouthSudanBaseline"
+  },
+  {
+    "title": "Trade Capacity Building Database Data Set",
+    "description": "Since 2001, the U.S. Agency for International Development (USAID) has conducted an annual survey on behalf of the Office of the U.S. Trade Representative (USTR) to identify and quantify the U.S. Government's trade capacity building (TCB) activities in developing countries and transitional economies. This website offers access to the full set of that survey data, including the funding levels for the period covering FY1999.FY2012 and summary activity descriptions of each of the project activities, for the period covering FY2002.FY2012.",
+    "keyword": [
+      "trade",
+      "annual",
+      "survey",
+      "international aid"
+    ],
+    "modified": "2013-02-03",
+    "publisher": "USAID",
+    "identifier": "9ae76cfd-9fc2-4fe2-ad58-9b0ee2a218eb",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:025",
+      "184:026",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://tcb.eads.usaidallnet.gov",
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/data/files/trade_capacity_building.xls",
+        "format": "application/vnd.ms-excel"
+      }
+    ]
+  },
+  {
+    "title": "USAID Dollars Obligated and Dollars Spent",
+    "description": "Displays obligations and disbursements by operating unit (OU) and sector, beginning with Fiscal Years 2009. The data was pulled from USAID's financial accounting system of record, Phoenix.",
+    "keyword": [
+      "financial",
+      "obligations",
+      "disbursements"
+    ],
+    "modified": "2013-11-21",
+    "publisher": "USAID",
+    "identifier": "d91c8da4-e06f-48a9-b12a-f9beb685281c",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:001",
+      "184:002",
+      "184:003",
+      "184:004",
+      "184:005",
+      "184:006",
+      "184:007",
+      "184:008",
+      "184:009",
+      "184:010",
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:014",
+      "184:015",
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:019",
+      "184:020",
+      "184:021",
+      "184:022",
+      "184:023",
+      "184:024",
+      "184:025",
+      "184:026",
+      "184:027",
+      "184:028",
+      "184:029",
+      "184:030",
+      "184:031",
+      "184:032",
+      "184:033",
+      "184:034",
+      "184:035",
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://foreignassistance.gov",
+    "distribution": [
+      {
+        "accessURL": "http://www.foreignassistance.gov/web/dataview.aspx",
+        "format": "application/vnd.ms-excel"
+      }
+    ]
+  },
+  {
+    "title": "The USAID Environmental Compliance Database",
+    "description": "",
+    "keyword": [
+      "environment",
+      "compliance"
+    ],
+    "modified": "2013-11-26",
+    "publisher": "USAID",
+    "identifier": "bb23de34-fc2b-4be9-a40d-a0f56450ac06",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:032",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://gemini.info.usaid.gov/egat/envcomp/"
+  },
+  {
+    "title": "USAID Forward, Focus Strategic Planning",
+    "description": "USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. Progress on USAID Forward is monitored using eight topline indicators, including the focus on strategic planning. Data is available for FY 2012 and FY 2013. The FY 2012 data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
+    "keyword": [
+      "usaid forward",
+      "open data",
+      "transparency",
+      "strategy",
+      "capacity"
+    ],
+    "modified": "2013-09-23",
+    "publisher": "USAID",
+    "identifier": "ab1fe154-2663-4d7e-88b6-b4202bdc9127",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/USAID%20Forward%20Data_CDCS.csv",
+        "format": "text/csv"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/sites/default/documents/1868/2013-usaid-forward-report.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/usaidforward"
+  },
+  {
+    "title": "USAID Forward, Improved decision-making",
+    "description": "USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. Progress on USAID Forward is monitored using eight topline indicators, including improving decision-making through evaluation. Data is available for FY 2012 and FY 2013. The FY 2012 data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
+    "keyword": [
+      "usaid forward",
+      "open data",
+      "transparency",
+      "strategy",
+      "capacity"
+    ],
+    "modified": "2013-09-23",
+    "publisher": "USAID",
+    "identifier": "a343943c-a18d-4f70-8619-f39f44625cc8",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/USAID%20Forward%20Data_Evaluations.csv",
+        "format": "text/csv"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/sites/default/documents/1868/2013-usaid-forward-report.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/usaidforward"
+  },
+  {
+    "title": "USAID Forward, Strengthen and retain best talent",
+    "description": "USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. Progress on USAID Forward is monitored using eight topline indicators, including the establishment of mentoring programs. Data is available for FY 2012 and FY 2013. The FY 2012 data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
+    "keyword": [
+      "usaid forward",
+      "open data",
+      "transparency",
+      "strategy",
+      "capacity"
+    ],
+    "modified": "2013-09-23",
+    "publisher": "USAID",
+    "identifier": "6380d3b8-0a2e-49d1-ac63-e22f612073ca",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/USAID%20Forward%20Data_Mentoring.csv",
+        "format": "text/csv"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/sites/default/documents/1868/2013-usaid-forward-report.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/usaidforward"
+  },
+  {
+    "title": "USAID Forward, Strengthen local capacity",
+    "description": "USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. Progress on USAID Forward is monitored using eight topline indicators, including strengthening local capacity. Data is available for FY 2012 and FY 2013. The FY 2012 data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
+    "keyword": [
+      "usaid forward",
+      "open data",
+      "transparency",
+      "strategy",
+      "capacity"
+    ],
+    "modified": "2013-09-23",
+    "publisher": "USAID",
+    "identifier": "6fcc0aea-0637-4448-9f86-beda90865935",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/USAID%20Forward%20Data%20_Local%20Solutions.zip",
+        "format": "text/csv"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/sites/default/documents/1868/2013-usaid-forward-report.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/usaidforward"
+  },
+  {
+    "title": "USAID Forward, Strengthen staff capacity",
+    "description": "USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. Progress on USAID Forward is monitored using eight topline indicators, including strengthening staff capacity to engage with partners. Data is available for FY 2012 and FY 2013. The FY 2012 data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
+    "keyword": [
+      "usaid forward",
+      "open data",
+      "transparency",
+      "strategy",
+      "capacity"
+    ],
+    "modified": "2013-09-23",
+    "publisher": "USAID",
+    "identifier": "ed49b94e-28bc-456b-b76f-d5b8cb6e7602",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/USAID%20Forward%20Data_Engagement.csv",
+        "format": "text/csv"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/sites/default/documents/1868/2013-usaid-forward-report.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/usaidforward"
+  },
+  {
+    "title": "USAID Forward, Scale up and leverage private resources",
+    "description": "USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. Progress on USAID Forward is monitored using eight topline indicators, including the creation of public-private partnerships. Data is available for FY 2012 and FY 2013. The FY 2012 data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
+    "keyword": [
+      "usaid forward",
+      "open data",
+      "transparency",
+      "strategy",
+      "capacity"
+    ],
+    "modified": "2013-09-23",
+    "publisher": "USAID",
+    "identifier": "1a844565-5cda-48f6-b502-6f9279709bf1",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/USAID%20Forward%20Data_Public%20Private%20Partnerships.csv",
+        "format": "text/csv"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/sites/default/documents/1868/2013-usaid-forward-report.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/usaidforward"
+  },
+  {
+    "title": "USAID Forward, Accelerate financial inclusion, improve transparency and catalyze private sector development",
+    "description": "USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. Progress on USAID Forward is monitored using eight topline indicators, including promoting innovations such as the use of mobile money. Data is available for FY 2012 and FY 2013. The FY 2012 data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
+    "keyword": [
+      "usaid forward",
+      "open data",
+      "transparency",
+      "strategy",
+      "capacity"
+    ],
+    "modified": "2013-09-23",
+    "publisher": "USAID",
+    "identifier": "eacda325-5ddc-42ce-a02a-16b3e79eb878",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/USAID%20Forward%20Data_Mobile%20Money.csv",
+        "format": "text/csv"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/sites/default/documents/1868/2013-usaid-forward-report.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/usaidforward"
+  },
+  {
+    "title": "USAID Forward, Maximize resources by leveraging commercial private capital",
+    "description": "USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. Progress on USAID Forward is monitored using eight topline indicators, including leveraging commercial, private capital. Data is available for FY 2012 and FY 2013. The FY 2012 data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
+    "keyword": [
+      "usaid forward",
+      "open data",
+      "transparency",
+      "strategy",
+      "capacity"
+    ],
+    "modified": "2013-09-23",
+    "publisher": "USAID",
+    "identifier": "dba3cb77-7ac6-49ea-be3d-9457555bf88d",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/USAID%20Forward%20Data%20Development%20Credit%20Authority.zip",
+        "format": "application/zip"
+      }
+    ],
+    "references": [
+      "http://www.usaid.gov/sites/default/documents/1868/2013-usaid-forward-report.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.usaid.gov/usaidforward"
+  },
+  {
+    "title": "USAID Public-Private Partnerships Database",
+    "description": "This dataset brings together information collected since 2001 on PPPs that have been supported by USAID. For the purposes of this dataset a Public-Private Partnership is defined as a USAID-supported development project or initiative which engages the private sector (including corporations, foundations, and other non-governmental actors) as a core resource partner. Due to changes in Agency data collection systems, standards, and internal organization, the data has been collected according to different mechanisms, definitions, and timeframes from 2001-2013, and therefore cannot be considered to be comprehensive of all PPPs during this period. ",
+    "keyword": [
+      "PPP",
+      "GDA",
+      "Public-Private Partnerships",
+      "Global Development Alliance"
+    ],
+    "modified": "2014-08-26",
+    "publisher": "USAID",
+    "identifier": "83ace88b-c6a3-4520-990f-439ffc74e08f",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:008",
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:019",
+      "184:020",
+      "184:029",
+      "184:031",
+      "184:032"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "spatial": "Worldwide",
+    "language": [
+      "en-US"
+    ],
+    "distribution": [
+      {
+        "accessURL": "http://www.usaid.gov/opengov/developer/datasets/DataAnalysis_2014-8-26.xml",
+        "format": "application/xml"
+      }
+    ],
+    "dataDictionary": "http://www.usaid.gov/opengov/developer/datasets/PPP%20Database%20Data%20Dictionary%208.4.14.docx",
+    "references": [
+      "http://www.usaid.gov/opengov/developer/datasets/PPP%20Dataset%20Background%208.4.14.docx"
+    ]
+  },
+  {
+    "title": "U.S. CRS++ Submission to the OECD/DAC CY2009",
+    "description": "U.S. Official Development Assistance, Other Official Flows and Private Flows to developing countries for calendar year 2009. This is the official U.S. government submission of the CRS++ table to the OECD/DAC.",
+    "keyword": [
+      "foreign assistance",
+      "crs"
+    ],
+    "modified": "2010-10-01",
+    "publisher": "USAID",
+    "identifier": "570943d8-9e7a-473d-bc5f-2bc455660bc6",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:025",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://usoda.eads.usaidallnet.gov",
+    "distribution": [
+      {
+        "accessURL": "http://usoda.eads.usaidallnet.gov/data/files/us_crs_expanded_2009.xls",
+        "format": "application/vnd.ms-excel"
+      }
+    ]
+  },
+  {
+    "title": "U.S. CRS++ Submission to the OECD/DAC CY2010",
+    "description": "U.S. Official Development Assistance, Other Official Flows and Private Flows to developing countries for calendar year 2010. This is the official U.S. government submission of the CRS++ table to the OECD/DAC.",
+    "keyword": [
+      "foreign assistance",
+      "crs"
+    ],
+    "modified": "2012-04-01",
+    "publisher": "USAID",
+    "identifier": "4b641211-22d6-44c8-8f4e-683e607e3616",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:025",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://usoda.eads.usaidallnet.gov",
+    "distribution": [
+      {
+        "accessURL": "http://usoda.eads.usaidallnet.gov/data/files/us_crs_expanded_2010.xls",
+        "format": "application/vnd.ms-excel"
+      }
+    ]
+  },
+  {
+    "title": "U.S. CRS++ Submission to the OECD/DAC CY2011",
+    "description": "U.S. Official Development Assistance, Other Official Flows and Private Flows to developing countries for calendar year 2011. This is the official U.S. government submission of the CRS++ table to the OECD/DAC.",
+    "keyword": [
+      "foreign assistance",
+      "crs"
+    ],
+    "modified": "2013-02-15",
+    "publisher": "USAID",
+    "identifier": "886feb48-e2b0-4a6f-8675-8623fcb7b4ad",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:025",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://usoda.eads.usaidallnet.gov",
+    "distribution": [
+      {
+        "accessURL": "http://usoda.eads.usaidallnet.gov/data/files/us_crs_expanded_2011.xls",
+        "format": "application/vnd.ms-excel"
+      }
+    ]
+  },
+  {
+    "title": "U.S. CRS++ Submission to the OECD/DAC CY2012",
+    "description": "U.S. Official Development Assistance, Other Official Flows and Private Flows to developing countries for calendar year 2012. This is the official U.S. government submission of the CRS++ table to the OECD/DAC.",
+    "keyword": [
+      "foreign assistance",
+      "crs"
+    ],
+    "modified": "2014-02-12",
+    "publisher": "USAID",
+    "identifier": "179b8098-5063-4e25-89dd-04914f486127",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:025",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://usoda.eads.usaidallnet.gov",
+    "distribution": [
+      {
+        "accessURL": "http://usoda.eads.usaidallnet.gov/data/files/us_crs_expanded_2012.xls",
+        "format": "application/vnd.ms-excel"
+      }
+    ]
+  },
+  {
+    "title": "U.S. ODA Disbursements by Recipient Country and U.S. Agency",
+    "description": "Official Development Assistance (ODA) is defined by international agreement under the Development Assistance Committee at the Organization for Economic Co-operation and Development (OECD/DAC). These U.S. ODA statistics provide details of U.S Official Development Assistance by country and implementing agency as reported to the OECD/DAC.",
+    "keyword": [
+      "oda",
+      "disbursements",
+      "foreign assistance",
+      "international aid"
+    ],
+    "modified": "2013-02-15",
+    "publisher": "USAID",
+    "identifier": "aefbde87-58f1-47b0-a913-aafd66089be1",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:025",
+      "184:031"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "dataDictionary": "http://usoda.eads.usaidallnet.gov/data/files/DATADICTIONARY_ODACountryAgency.pdf",
+    "references": [
+      "http://usoda.eads.usaidallnet.gov/data/files/METHODOLOGY_ODACountryAgency.pdf"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://usoda.eads.usaidallnet.gov",
+    "distribution": [
+      {
+        "accessURL": "http://usoda.eads.usaidallnet.gov/data/files/us_official_development_assistance.xml",
+        "format": "application/xml"
+      }
+    ]
+  },
+  {
+    "title": "U.S. Overseas Loans and Grants (Greenbook)",
+    "description": "This dataset is used to produce the \"U.S. Overseas Loans and Grants\" publication. The annual report to Congress on U.S foreign assistance flows is required by the Foreign Assistance Act, Section 634 and is the authoritative data set of U.S. foreign assistance.  The annual update of the \"U.S. Overseas Loans and Grants,\" informally known as the \"Greenbook,\" contains data of United States Government (USG) foreign assistance since 1945. Foreign assistance is categorized as either economic assistance or military assistance. Foreign assistance is reported by recipient country and organized by geographic region, without distinction between developed and developing countries. Any country which has received cumulative economic or military assistance over $500,000 since 1945 and is considered an \"Independent State\" by the U.S. Department of State merits an individual country reporting.",
+    "keyword": [
+      "greenbook",
+      "loans",
+      "grants",
+      "foreign assistance",
+      "international aid",
+      "authoritative"
+    ],
+    "modified": "2013-11-26",
+    "publisher": "USAID",
+    "identifier": "49c01560-6cd7-4bbc-bfef-7a1991867633",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:001",
+      "184:002",
+      "184:003",
+      "184:004",
+      "184:005",
+      "184:006",
+      "184:007",
+      "184:008",
+      "184:009",
+      "184:010",
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:014",
+      "184:015",
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:019",
+      "184:020",
+      "184:021",
+      "184:022",
+      "184:023",
+      "184:024",
+      "184:025",
+      "184:026",
+      "184:027",
+      "184:028",
+      "184:029",
+      "184:030",
+      "184:031",
+      "184:032",
+      "184:033",
+      "184:034",
+      "184:035",
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "dataDictionary": "http://gbk.eads.usaidallnet.gov/data/files/DATADICTIONARY_ForeignAssistance.pdf",
+    "references": [
+      "http://gbk.eads.usaidallnet.gov/data/files/METHODOLOGY_ForeignAssistance.pdf"
+    ],
+    "landingPage": "http://gbk.eads.usaidallnet.gov",
+    "accrualPeriodicity": "Annual",
+    "distribution": [
+      {
+        "accessURL": "http://gbk.eads.usaidallnet.gov/data/files/us_foreign_assistance.xml",
+        "format": "application/xml"
+      }
+    ]
+  },
+  {
+    "title": "U.S. Official Development Assistance Database",
+    "description": "This website provides U.S. Official Development Assistance (ODA) data as defined by the Organization for Economic Co-Operation and Development (OECD), Development Assistance Committee (DAC). These data are compiled annually by the U.S. Agency for International Development (USAID) for the U.S. Government and submitted to the OECD/DAC.",
+    "keyword": [
+      "international development",
+      "economics"
+    ],
+    "modified": "2013-11-26",
+    "publisher": "USAID",
+    "identifier": "f5c4b941-f45a-46fa-ba5b-ffa63dac6d00",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:001",
+      "184:002",
+      "184:003",
+      "184:004",
+      "184:005",
+      "184:006",
+      "184:007",
+      "184:008",
+      "184:009",
+      "184:010",
+      "184:011",
+      "184:012",
+      "184:013",
+      "184:014",
+      "184:015",
+      "184:016",
+      "184:017",
+      "184:018",
+      "184:019",
+      "184:020",
+      "184:021",
+      "184:022",
+      "184:023",
+      "184:024",
+      "184:025",
+      "184:026",
+      "184:027",
+      "184:028",
+      "184:029",
+      "184:030",
+      "184:031",
+      "184:032",
+      "184:033",
+      "184:034",
+      "184:035",
+      "184:036",
+      "184:037"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "landingPage": "http://usoda.eads.usaidallnet.gov",
+    "accrualPeriodicity": "Annual"
+  },
+  {
+    "title": "Women's Empowerment in Agricultural Index: Proof of Concept",
+    "description": "The index is a significant innovation in its field that measures multiple indicators of empowerment, and generates \"scores\" that can be compared over time. It is the first tool of its kind. Piloted in 2011 and launched in February 2012, the US government is using the index to track change in women's empowerment that occurs as a direct or indirect result of Feed the Future interventions in targeted geographic zones within the initiative's 19 focus countries. Data for the WEAI will be collected every two years in all 19 countries, and baselines were collected in 2011 and 2012. USAID and partners will conduct data analyses to understand the relationships among empowerment, livelihoods, and food security, as well as relationships among the various components of the index. Feed the Future will also use the WEAI for impact evaluations of distinct projects to examine the effectiveness of different approaches and how they impact women and men. To protect the personal information of respondents, all personal identifiable information was removed.",
+    "keyword": [
+      "agriculture",
+      "food",
+      "feed the future",
+      "survey",
+      "analysis"
+    ],
+    "modified": "2013-04-26",
+    "publisher": "USAID",
+    "identifier": "2925be36-56bd-4e87-a325-584375658056",
+    "contactPoint": "Kate Bunting",
+    "mbox": "opendata@usaid.gov",
+    "accessLevel": "public",
+    "programCode": [
+      "184:029"
+    ],
+    "bureauCode": [
+      "184:015"
+    ],
+    "language": [
+      "en-US"
+    ],
+    "landingPage": "http://www.ifpri.org",
+    "resources": [
+      "http://www.ifpri.org/sites/default/files/publications/gfpr2012_ch04.pdf",
+      "http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/127346",
+      "http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/126937",
+      "http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/127491",
+      "http://www.a4nh.cgiar.org/files/2013/04/IFPRI-PRSSP_Bangladesh-WEAI-Report_Final_14-April-2013.pdf"
+    ]
+  }
+]

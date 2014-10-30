@@ -10,11 +10,19 @@ $(function() {
         // the response is passed to the function
         success: function( json ) {
 
-             $.get('./themes/default/datasets.mst', function(template) {
+            var theme = $('#catalog').data("template-theme");
+            theme = (theme ? theme : 'default');
+            theme = './themes/' + theme + '/datasets.mst';
+
+             $.get(theme, function(template) {
                 Mustache.parse(template);   // optional, speeds up future uses
                 var rendered = Mustache.render(template, {datasets:json});
                 $('#catalog').html(rendered);
+
+                $('#catalog table').DataTable();
              });
+
+             
 
         },
      

@@ -1,3 +1,97 @@
-{{#datasets}}
-  <h2>{{title}}</h2>
-{{/datasets}} 
+<table class="display">
+
+	<thead>
+	   	<tr>
+	        <th scope="row">Name</th>
+	        <th scope="row">Description</th>
+	        <th scope="row">Last Updated</th>
+	    </tr>
+	</thead>
+
+<tbody id="dataset-list">
+	{{#datasets}}
+		<tr>
+		  <td>{{title}}</td>
+		  <td>
+		  	{{description}}
+
+		  	<button style="display:block; margin-top : .5em" type="button" data-toggle="collapse" data-target="#{{identifier}}" aria-expanded="true" aria-controls="{{identifier}}">Download &amp; More Info</button>
+
+		  	<div class="full-metadata collapse" id="{{identifier}}">
+
+			  	<h3>Download</h3>
+			  	<table>
+
+
+					{{#distribution}}
+				  		<a class="btn" href="{{accessURL}}">{{format}}</a>			  		
+					{{/distribution}}
+					
+					{{^distribution}}
+				  		{{#accessURL}}
+				  			<a class="btn" href="{{accessURL}}">{{format}}</a>	
+				  		{{/accessURL}}
+					{{/distribution}}
+
+			  	</table>
+
+
+			  	<h3>Metadata</h3>
+			  	<table>
+			  		<tr>
+			  			<th>Identifier</th>
+			  			<td>{{identifier}}</td>
+			  		</tr>
+			  		<tr>
+			  			<th>Contact</th>
+			  			<td><a href="mailto:{{mbox}}">{{contactPoint}}</a></td>
+			  		</tr>
+			  		<tr>
+			  			<th>Keywords</th>
+			  			<td>{{#keyword}}
+			  				{{.}}, 
+			  				{{/keyword}}
+			  			</td>
+			  		</tr>
+			  		<tr>
+			  			<th>Bureau Code</th>
+			  			<td>{{bureauCode}}</td>
+			  		</tr>		  				
+			  		<tr>
+			  			<th>Program Code</th>
+			  			<td>{{programCode}}</td>
+			  		</tr>	
+
+			  		{{#dataDictionary?}}
+			  		<tr>
+			  			<th>Data Dictionary</th>
+			  			<td>{{dataDictionary}}</td>
+			  		</tr>		  		
+			  		{{/dataDictionary?}}
+
+			  		{{#license?}}
+			  		<tr>
+			  			<th>License</th>
+			  			<td>{{license}}</td>
+			  		</tr>		  		
+			  		{{/license?}}
+
+			  		{{#temporal?}}
+			  		<tr>
+			  			<th>Temporal Range</th>
+			  			<td>{{temporal}}</td>
+			  		</tr>		  		
+			  		{{/temporal?}}		  				  		
+
+			  	</table>
+		  	</div>
+
+
+
+		  </td>  
+		  <td>{{modified}}</td>
+		</tr>
+	{{/datasets}} 
+</tbody>
+
+</table>
